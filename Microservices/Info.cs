@@ -1,10 +1,1 @@
-﻿using System;
-namespace Microservices
-{
-    public class Info
-    {
-        public Info()
-        {
-        }
-    }
-}
+﻿using Swashbuckle.AspNetCore.Swagger;
